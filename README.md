@@ -1,17 +1,13 @@
 <!-- Gradient Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,50:9146FF,100:E91E63&height=200&section=header&text=Meet%20Joshi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20AI%20Engineer%20%40%20Air%20India%20%E2%9C%88%EF%B8%8F&descSize=22&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,50:9146FF,100:E91E63&height=120&section=header&text=Meet%20Joshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20AI%20Engineer%20%40%20Air%20India%20%E2%9C%88%EF%B8%8F&descSize=15&descAlignY=55"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=GenAI+%7C+RAG+%7C+Agentic+AI+Builder+🤖;M.Tech+%40+IIT+Bombay+🎓;Turning+LLMs+into+Production+Systems+🚀;Building+AI+that+serves+30K%2B+users+daily" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&height=30&lines=GenAI+%7C+RAG+%7C+Agentic+AI+Builder+🤖;M.Tech+%40+IIT+Bombay+🎓;Turning+LLMs+into+Production+Systems+🚀" alt="Typing SVG" /></a>
+  <br/>
+  <a href="https://www.linkedin.com/in/meet-joshi-355480206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:meetjoshi6897@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=meetj6897&style=flat-square&color=2E97F7" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/meet-joshi-355480206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:meetjoshi6897@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=meetj6897&style=for-the-badge&color=2E97F7" alt="Profile Views"/>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -105,6 +101,6 @@
 ---
 
 <!-- Gradient Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,50:9146FF,100:2E97F7&height=120&section=footer&text=✈️%20Building%20AI%20that%20flies%20—%20one%20RAG%20pipeline%20at%20a%20time&fontSize=18&fontColor=ffffff&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,50:9146FF,100:2E97F7&height=90&section=footer&text=✈️%20Building%20AI%20that%20flies%20—%20one%20RAG%20pipeline%20at%20a%20time&fontSize=14&fontColor=ffffff&fontAlignY=78"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
