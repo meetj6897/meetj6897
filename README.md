@@ -1,5 +1,5 @@
 <!-- Gradient Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,50:9146FF,100:E91E63&height=120&section=header&text=Meet%20Joshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20AI%20Engineer%20%40%20Air%20India%20%E2%9C%88%EF%B8%8F&descSize=15&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,50:9146FF,100:E91E63&height=150&section=header&text=Meet%20Joshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=27&desc=Backend%20AI%20Engineer%20%40%20Air%20India%20%E2%9C%88%EF%B8%8F&descSize=15&descAlignY=48"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&height=30&lines=GenAI+%7C+RAG+%7C+Agentic+AI+Builder+🤖;M.Tech+%40+IIT+Bombay+🎓;Turning+LLMs+into+Production+Systems+🚀" alt="Typing SVG" /></a>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🔭 **Backend AI Engineer @ Air India** ✈️ — building GenAI & RAG systems that serve **30K+ employees** and handle **2–5K queries every day**
+🔭 **Backend AI Engineer @ Air India** — building GenAI & RAG systems that serve **30K+ employees** and handle **2–5K queries every day**
 
 ⚡ Architected a **Dual RAG strategy** → **60% lower token usage**, **40% lower cost**, **3× higher throughput**
 
