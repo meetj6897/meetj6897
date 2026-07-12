@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🔭 **Backend AI Engineer @ Air India** — building GenAI & RAG systems that serve **30K+ employees** and handle **2–5K queries every day**
+🔭 **Backend AI Engineer @ Air India** ✈️ — building GenAI & RAG systems that serve **30K+ employees** and handle **2–5K queries every day**
 
 ⚡ Architected a **Dual RAG strategy** → **60% lower token usage**, **40% lower cost**, **3× higher throughput**
 
@@ -64,13 +64,14 @@
 
 | Project | What it shows | Tech |
 |---------|---------------|------|
-| 🛡️ [Credit Card Fraud Detection — End-to-End MLOps](https://github.com/meetj6897) | Full ML lifecycle: SMOTE → XGBoost ensemble → FastAPI + Docker → **GCP Cloud Run** with CI/CD | `XGBoost` `FastAPI` `Docker` `GCP` |
-| 📈 [Twitter Sentiment × Algorithmic Trading](https://github.com/meetj6897) | NLP meets time series: Naive Bayes sentiment + LSTM forecasting (**4.98% RMSE**, 92% correlation) | `NLTK` `LSTM` `ARIMA` |
-| 🧠 [LLM From Scratch](https://github.com/meetj6897) | Transformer built ground-up: tokenization, self-attention, positional encoding, training loop | `PyTorch` `Transformers` |
-| 🎨 [Diffusion Model From Scratch](https://github.com/meetj6897) | Forward noising & reverse denoising from first principles | `PyTorch` `Diffusion` |
-| 🔤 [Next Word Prediction](https://github.com/meetj6897) | LSTM vs Bi-LSTM vs BERT on the Brown corpus | `BERT` `Hugging Face` |
-| 🛍️ [Mall Customer Segmentation](https://github.com/meetj6897) | K-Means++ clustering with PCA via Azure ML Designer | `Azure ML` `PCA` |
-| 📊 [E-commerce Inventory Dashboard](https://github.com/meetj6897) | ABC/XYZ classification + forecasting in Power BI | `Power BI` `DAX` |
+| 🕸️ [Cloud MCP with LangGraph](https://github.com/meetj6897/cloud-MCP-with-langgraph) | Agentic AI in action: **MCP-based application** orchestrated with **LangGraph**, deployed on cloud | `MCP` `LangGraph` `Agentic AI` |
+| 🧠 [Develop LLM From Scratch](https://github.com/meetj6897/Develop-LLM-from-scratch) | Transformer built ground-up: tokenization, self-attention, positional encoding, training loop | `PyTorch` `Transformers` |
+| 🎛️ [Fine-Tuning LLM](https://github.com/meetj6897/Fine-Tunning-LLM) | Fine-tuning open-source LLMs for domain adaptation & task-specific performance | `Fine-tuning` `Hugging Face` |
+| 🛡️ [Credit Card Fraud Detection](https://github.com/meetj6897/Credit_card_fraud_detection) | Full ML lifecycle: SMOTE → XGBoost ensemble → best F1 score | `XGBoost` `SMOTE` `Ensemble` |
+| 🛍️ [Mall Customer Segmentation](https://github.com/meetj6897/shopping_mall-customer-segmentation) | K-Means++ clustering with PCA via Azure ML Designer | `Azure ML` `K-Means` `PCA` |
+| 📊 [E-commerce Power BI Dashboard](https://github.com/meetj6897/E_commerce_power_bi) | ABC/XYZ inventory classification + moving-average forecasting | `Power BI` `DAX` |
+| 📈 Twitter Sentiment × Algorithmic Trading | NLP meets time series: Naive Bayes sentiment + LSTM forecasting (**4.98% RMSE**, 92% correlation) | `NLTK` `LSTM` `ARIMA` |
+| 🎨 Diffusion Model From Scratch | Forward noising & reverse denoising from first principles | `PyTorch` `Diffusion` |
 
 ---
 
