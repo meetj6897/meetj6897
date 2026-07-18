@@ -21,7 +21,7 @@
 
 💬 Ask me about **RAG · Prompt Engineering · Fine-tuning · Guardrails · Agentic AI · MLOps**
 
-📫 Reach me at **meetjoshi6897@gmail.com**
+📫 Reach me at **meetjoshi6897@gmail.com** or   <a href="https://www.linkedin.com/in/meet-joshi-355480206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 ---
 
